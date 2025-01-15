@@ -1,0 +1,6 @@
+  CREATE_STREAM @0 {NAME:m_sequence T:Transactions SCOPE:uvm_test_top.a_env.m_agent.sequence_mr STREAM:895}
+  CREATE_STREAM @0 {NAME:m_sequence T:Transactions SCOPE:uvm_test_top.a_env.m_agent.sequence_mr STREAM:895}
+  CREATE_STREAM @0 {NAME:m_sequence T:Transactions SCOPE:uvm_test_top.a_env.m_agent.sequence_mr STREAM:895}
+  CREATE_STREAM @0 {NAME:m_sequence T:Transactions SCOPE:uvm_test_top.a_env.m_agent.sequence_mr STREAM:895}
+  CREATE_STREAM @0 {NAME:m_sequence T:Transactions SCOPE:uvm_test_top.a_env.m_agent.sequence_mr STREAM:895}
+  CREATE_STREAM @0 {NAME:m_sequence T:Transactions SCOPE:uvm_test_top.a_env.m_agent.sequence_mr STREAM:895}
