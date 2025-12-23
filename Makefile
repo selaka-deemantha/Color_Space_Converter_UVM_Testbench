@@ -2,7 +2,7 @@ mkfile_path := $(dir $(abspath $(firstword $(MAKEFILE_LIST))))
 
 # - Change UVM_HOME if u have a different path
 
-QUESTA_HOME ?= /home/selaka/intelFPGA/23.1std/questa_fse
+QUESTA_HOME ?= /home/selaka/altera/24.1std/questa_fse
 
 # - Change UVM_HOME if u have a different path
 UVM_HOME ?=$(QUESTA_HOME)/verilog_src/uvm-1.2/
